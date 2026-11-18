@@ -89,7 +89,7 @@ export default function MobileDrawer({ isOpen, onClose }) {
         <div className="cp-drawer-socials">
           <a href="https://www.facebook.com/asad.shabbir.944/" target="_blank" rel="noopener noreferrer" className="cp-drawer-social-btn cp-social-fb" aria-label="Facebook"><i className="fab fa-facebook-f"></i></a>
     <a
-    href="https://wa.me/923057773703"
+    href="https://wa.me/923057773073"
     target="_blank"
     rel="noopener noreferrer"
     className="cp-social-btn cp-social-wa"
